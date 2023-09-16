@@ -15,8 +15,11 @@ User Input buttons:<br> 1. Size of Array<br> 2. Speed of Sorting<br> 3. Generate
 Visualization:<br> 1. Deafault color: Brown<br> 2. Yellow for elements being compared<br> 3. Blue if elements in wrong position<br> 4. Green if on correct location<br>
 
 Screenshots of webpage:
-![sorting_vis1](https://github.com/patidar-sonali/Sorting-Visualizer/assets/96821408/89eff4ed-b996-4786-a471-8bd97205466c)
+
+![sorting_vis1](https://github.com/patidar-sonali/Sorting-Visualizer/assets/96821408/d9ab607f-2b53-40c6-a4e4-8d04882fca4d)
 
 <br>After sorting:
-![sorting_vis2](https://github.com/patidar-sonali/Sorting-Visualizer/assets/96821408/547586d3-ee30-409b-9673-1cf7680592e3)
+
+
+![sorting_vis2](https://github.com/patidar-sonali/Sorting-Visualizer/assets/96821408/cec7fc21-ad99-4ba6-a6fd-c8ed89f42568)
 
